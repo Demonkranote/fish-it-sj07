@@ -1,4 +1,4 @@
-
+Download smart fish it Scripts for fish it, the best script available, featuring auto-heal and auto-sell. This powerful tool ensures you have the upper hand in every match,
 
 
 
